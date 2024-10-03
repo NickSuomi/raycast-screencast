@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "title": "Raycast Screencast",
+  "description": "Compress videos with FFmpeg using Bun",
+  "commands": [
+    {
+      "name": "compress-video",
+      "title": "Compress Video",
+      "description": "Compress video using Bun and FFmpeg",
+      "mode": "no-view",
+      "path": "commands/compress-video.sh"
+    }
+  ]
+}
